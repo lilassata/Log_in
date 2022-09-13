@@ -1,0 +1,64 @@
+* {
+    background-color: #0f0e0e
+}
+
+.topnav {
+    background-color: #2c2c2c;
+    width: 75px;
+    height: auto;
+}
+
+.sidenav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    background: #242424;
+    
+}
+
+.sidenav a {
+    float: left;
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    background-color: #242424;
+}
+
+.sidenav a i {
+    margin: 15px;
+    
+}
+
+form {
+    color: white;
+    text-align: center;
+}
+
+input {
+    padding: 10px 12px;
+    border: 2px solid white;
+    border-radius: 4px;
+}
+
+input[value=Done] {
+    width: 100px;
+    color: #ffffff;
+  }
+ 
+/* .circle {
+    background: lightblue;
+    border-radius: 50%;
+    border-color: #ffffff;
+    width: 100px;
+    height: 100px;
+    margin: 10px 12px;
+    padding: 10px 12px;
+    float: right;
+} */
+
+.circle div {
+    position: center;
+}
+
